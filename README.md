@@ -1,5 +1,7 @@
 # 💻 Laptop Price Prediction Using Machine Learning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lx4ZZUgQmBuy9zI8FkalkMIbz8AyliP1)
+
 ---
 
 ### 📌 Course Information
@@ -10,17 +12,9 @@
 
 ---
 
-### 👥 Team Members
-| Name | Student ID |
-| :--- | :--- |
-| **Shadman Sadequeen Priyo** | 11230121158 |
-| **Musabbir Hosen Chayon** | 11230121168 |
-
----
-
 ### 🚀 Project Summary
 This project demonstrates the complete Data Science workflow on the Kaggle Laptop Price dataset to predict market prices using machine learning.
 
 * **Data Preprocessing:** Performed deduplication, type casting, missing value checks, and IQR-based outlier winsorization.
 * **Models Evaluated:** Linear Regression, Ridge, Lasso, Decision Tree, Gradient Boosting, and Random Forest.
-* **Champion Model:** **Random Forest** achieved the best performance with an **$R^2$ of 0.8413**.
+* **Champion Model:** **Random Forest** achieved the best performance with an **$R^2$ of 0.8413**
